@@ -2,6 +2,13 @@
 
 # Usage
 
+## Dataset Structure
+
+* reference sequence: `recording_2020-04-07_10-20-32` 
+* training sequence: `recording_2020-03-24_17-36-22`
+* validation sequence: `recording_2020-03-03_12-03-23`
+* test sequence: `recording_2020-03-24_17-45-31`, `recording_2020-04-23_19-37-00`
+
 ## Dataset Preparation
 For the re-localization challenge, we provide 5 different traversals of the same sequence at
 different times. We provide a reference map, which contains high-accurate
